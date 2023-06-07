@@ -9,8 +9,13 @@ end
 
 class Basil < DeltaLabs
   
-  is_good_developer? :Basil
+  is_good_developer? :basil  
   # yes
+  
+  # note:
+  #   changed from :Basil to :basil
+  #   i had to fix it myself
+  #   things you need to do for your tareef - basil
 
 end
 
